@@ -1,6 +1,6 @@
 # SurveyResults
 
-This repo summarizes the results of the Survey performed during 2020-2021 to the IETF IoT-directorate team.
+This repo summarizes the results of the Survey performed from December 2020 to March 2021 to the IETF IoT-directorate team.
 
 # NOTE WELL
 
