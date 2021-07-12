@@ -1,7 +1,7 @@
 # SurveyResults
 
-## This repo summarizes the results of the Survey performed from January 2021 to March 2021 to the IETF IoT-directorate team.
-## Number of IoT Directorate Members that completed the survey: 21
+* This repo summarizes the results of the Survey performed from January 2021 to March 2021 to the IETF IoT-directorate team.
+* Number of IoT Directorate Members that completed the survey: 21
 
 # NOTE WELL
 
