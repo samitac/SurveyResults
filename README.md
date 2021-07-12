@@ -2,7 +2,7 @@
 
 This repo summarizes the results of the Survey performed during 2020-2021 to the IETF IoT-directorate team.
 
-#NOTE WELL
+# NOTE WELL
 
 This is a reminder of IETF policies in effect on various topics such as patents or code of conduct. It is only meant to point you in the right direction. Exceptions may apply. The IETF's patent policy and the definition of an IETF "contribution" and "participation" are set forth in BCP 79; please read it carefully.
 
